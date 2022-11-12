@@ -9,15 +9,15 @@
 
 - 👯 I’m looking for best opportunity as a Software Developer ( Frontend Developer, Python Developer )
 
-- 👨‍💻 All of my projects are available at [github.com/kritikumari777](github.com/kritikumari777)
+-  👨‍💻 All of my projects are available on [https://github.com/kritikumari777](https://github.com/kritikumari777)
 
-- 📝 I regularly reading on [sololearn.com/profile/9415219](sololearn.com/profile/9415219)
+- 📝 I regularly reading on [https://www.sololearn.com/profile/9415219](https://www.sololearn.com/profile/9415219)
 
 - 💬 Ask me **Anything**
 
 - 📫 How to reach me **123kritikumari@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/kriti-kumari-862753185](linkedin.com/in/kriti-kumari-862753185)
+- 📄 Know about my experiences [https://www.linkedin.com/in/kriti-kumari-862753185/](https://www.linkedin.com/in/kriti-kumari-862753185/)
 
 - ⚡ Fun fact **Friends**
 

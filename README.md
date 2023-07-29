@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritikumari777&label=Profile%20views&color=0e75b6&style=flat" alt="kritikumari777" /> </p>
 
-- 🔭 I have 1 year of experience and passionate about learning new technologies.
+- 🔭 I have 1 year of experience and am passionate about learning new technologies.
 
-- 🌱 I’m currently learning ** REST API, React.js**
+- 🌱 I’m currently learning **new technology.**
 
 - 👯 I’m looking for the best opportunity 
 

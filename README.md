@@ -15,14 +15,14 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/kriti-kumari-862753185/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kriti-kumari" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kriti-kumari" height="30" width="40" />
   </a>
 
-  📫 Reach me at: <a href="mailto:123kritikumari@gmail.com">123kritikumari@gmail.com</a>
-
+  <!-- Email Icon (GitHub-safe) -->
   <a href="mailto:123kritikumari@gmail.com">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="email" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" height="30" width="40" />
   </a>
 </p>
 

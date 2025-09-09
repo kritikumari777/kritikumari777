@@ -75,5 +75,21 @@
 
 - 📋 **Medical Report Markdown Notes** – Implemented **copy-to-clipboard with markdown integrity**, enabling users to copy sections, subtitles, or lines while preserving formatting. Enhanced provider usability. 
 
-- ⚡ **React CRUD App** – CRUD operations with hooks, Redux, and local storage sync. Includes API integration and clean UI. ([Repo Link](#))  
+- ⚡ **React CRUD App** – CRUD operations with hooks, Redux, and local storage sync. Includes API integration and clean UI.
+
+---
+
+  ### 🌐 Industry Projects (Professional Work)
+
+- **Playback Health Platform** (Blulabs)  
+  🔹 Contributed to multiple modules across **Provider Portal, Patient Portal, and Core Platform**  
+  🔹 Implemented features like **audio/video recording, multiple account login, payment gateway integration, appointment scheduling**, and secure data handling  
+  🔹 Optimized performance by 80% using **React.js, Redux, GraphQL, Tailwind CSS**  
+  🔗 [Provider Portal](https://provider.playbackhealth.com/login) | [Patient Portal](https://dev-patientportal.playback-dev.com/) | [Playback Health](https://pro.playbackhealth.com/)
+
+- **Brown Advisory – Touchpoint Platform** (Publicis Sapient)  
+  🔹 Built secure login & client dashboards for a **financial advisory platform**  
+  🔹 Integrated **REST APIs**, optimized UI rendering, and improved performance using **React, Redux, and Ant Design**  
+  🔗 [Touchpoint Portal](https://touchpoint.brownadvisory.com/brown-web/login/loginForm.go)
+
 ---

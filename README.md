@@ -21,8 +21,7 @@
   
   <a href="mailto:123kritikumari@gmail.com">
     <img align="center" src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="email" height="30" width="40" />
-  </a></p>
-
+  </a>
 </p>
 
 ---

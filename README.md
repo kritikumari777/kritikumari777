@@ -16,7 +16,7 @@
 ### 🌐 Connect with Me  
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kriti-kumari-862753185/)  
-- 📫 [Email](123kritikumari@gmail.com)
+- 📫 [Email Me](mailto:123kritikumari@gmail.com)
 
 ---
 

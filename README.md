@@ -63,8 +63,17 @@
 ---
 
 ### 🚀 Featured Projects
-- 📝 [React CRUD App](link-to-repo) – A simple CRUD app with hooks & API integration.  
-- 📊 [Feedback Form Builder](link-to-repo) – Dynamic form creation with multiple field types.  
-- 🎥 [Audio/Video Recording Component](link-to-repo) – Media recorder with transcription support.  
+- 💳 **Healthcare Management System** – Built secure patient management, appointment scheduling, **multiple account login**, and integrated **payment gateway**. Improved performance by 80%. ([Repo Link](#))  
+
+- 🎥 **Audio/Video Recorder** – Implemented media recording, **audio transcription**, and note creation. Optimized performance by 70% and made the component reusable across modules. ([Repo Link](#))  
+
+- 📊 **Feedback Form Builder** – Dynamic form creation with 7+ field types (Star, Radio, Text, etc.) using React & Tailwind. Designed to be fully configurable and reusable. ([Repo Link](#))  
+
+- 📝 **Notes Management (GraphQL Polling)** – Real-time updates with GraphQL polling, fixed draft/success status issues, and optimized UI rendering for better user experience. ([Repo Link](#))  
+
+- 📋 **Medical Report Markdown Notes** – Implemented **copy-to-clipboard with markdown integrity**, enabling users to copy sections, subtitles, or lines while preserving formatting. Enhanced provider usability. ([Repo Link](#))  
+
+- ⚡ **React CRUD App** – CRUD operations with hooks, Redux, and local storage sync. Includes API integration and clean UI. ([Repo Link](#))  
+
 
 ---

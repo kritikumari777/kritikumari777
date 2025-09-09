@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritikumari777&label=Profile%20views&color=0e75b6&style=flat" alt="kritikumari777" /> </p>
 
-- 🔭 I have 2+ years of experience as a React Developer, am passionate about learning new technologies.
+- 🔭 I have 3+ years of experience as a React Developer, am passionate about learning new technologies.
 
 - 🌱 I’m currently learning **new technology.**
 

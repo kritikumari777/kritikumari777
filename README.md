@@ -4,15 +4,12 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 **React Developer with 3+ years of experience** building scalable and high-performance web applications.  
-- 🌱 Currently upskilling in **Next.js, TypeScript, and GraphQL**.  
-- 👯 Passionate about **frontend innovation, performance optimization, and seamless UX**.  
+- 🔭 **React Developer with 3+ years of experience** building scalable and high-performance web applications.
+- 🌱 Currently upskilling in **Next.js, TypeScript, and GraphQL**.
+- 👯 Open to collaborating on **frontend & full-stack projects**.   
 - 📂 Explore my work 👉 [GitHub Repositories](https://github.com/kritikumari777)  
-- 📝 Continuous learner 👉 [Sololearn Profile](https://www.sololearn.com/profile/9415219)  
-- 💬 Ask me about **React.js, JavaScript, Tailwind CSS, REST APIs, GraphQL**  
-- 📫 Reach me at **123kritikumari@gmail.com**  
 - 📄 Know more 👉 [LinkedIn](https://www.linkedin.com/in/kriti-kumari-862753185/)  
-- ⚡ Fun fact: *I love solving UI challenges and making apps super fast 🚀*  
+- 📫 Reach me at 👉 [123kritikumari@gmail.com](mailto:123kritikumari@gmail.com)  
 
 ---
 
@@ -69,20 +66,20 @@
 
 ### 🚀 Featured Projects  
 
-- 💳 **Healthcare Management System** – Built secure **patient management, appointment scheduling, multi-account login, and payment gateway**. Improved app performance by **80%**.  
-- 🎥 **Audio/Video Recorder & Transcription** – Implemented **note creation from audio, transcription, and media management**. Boosted performance by **70%**.  
-- 📊 **Feedback Form Builder** – Dynamic forms with **7+ field types** (Star Rating, Text, Radio, etc.) using React & Tailwind. Fully configurable and reusable.  
-- 📝 **Medical Report Notes (Markdown)** – Developed **copy-to-clipboard with markdown integrity**, supporting titles, subtitles & line copying without breaking formatting.  
-- ⚡ **React CRUD App** – Built CRUD operations with hooks, Redux, local storage sync, and API integration.  
+- 💳 **Healthcare Management System** – Built secure **patient management, appointment scheduling, multi-account login, and payment gateway**.  
+- 🎥 **Audio/Video Recorder & Transcription** – Implemented **note creation from audio, transcription, and media management**.  
+- 📊 **Feedback Form Builder** – Dynamic forms with **7+ field types** (Star Rating, Text, Radio, etc.) using React & Tailwind.  
+- 📝 **Medical Report Notes (Markdown)** – Developed **copy-to-clipboard with markdown integrity**, supporting titles, subtitles & line copying.  
+- ⚡ **React CRUD App** – CRUD operations with hooks, Redux, local storage sync, and API integration.  
 
 ---
 
-### 🌐 Industry Projects (Professional Work)  
+### 🌐 Industry Projects  
 
 - **Playback Health Platform** *(Blulabs)*  
   🔹 Worked on **Provider, Patient & Core Platforms**  
   🔹 Features: **Audio/Video recording, multiple account login, payment gateway, appointment scheduling**  
-  🔹 Improved app performance by **80%** using React, Redux, GraphQL, Tailwind  
+  🔹 Improved app performance using **React, Redux, GraphQL, Tailwind**  
   🔗 [Provider Portal](https://provider.playbackhealth.com/login) | [Patient Portal](https://dev-patientportal.playback-dev.com/) | [Playback Health](https://pro.playbackhealth.com/)  
 
 - **Brown Advisory – Touchpoint Platform** *(Publicis Sapient)*  

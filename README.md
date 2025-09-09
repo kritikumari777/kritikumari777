@@ -13,7 +13,7 @@
 - 👯 Open to collaborating on **frontend & full-stack projects**.  
 - 📂 All my projects are available here 👉 [GitHub Repositories](https://github.com/kritikumari777)  
 - 📝 I write & learn continuously on 👉 [Sololearn Profile](https://www.sololearn.com/profile/9415219)  
-- 💬 Ask me about **React, Tailwind CSS, GraphQL, REST APIs**  
+- 💬 Ask me about **React JS, JavaScript, Tailwind CSS, GraphQL, REST APIs**  
 - 📫 Reach me at **123kritikumari@gmail.com**  
 - 📄 Know more about my experience 👉 [LinkedIn](https://www.linkedin.com/in/kriti-kumari-862753185/)  
 - ⚡ Fun fact: *I love solving UI challenges and optimizing performance.*  

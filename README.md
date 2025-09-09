@@ -17,9 +17,13 @@
 ---
 
 ### 🌐 Connect with Me  
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/kriti-kumari-862753185/" target="blank">
+  <a href="https://www.linkedin.com/in/kriti-kumari-862753185/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kriti-kumari" height="30" width="40" />
+  </a>
+  <a href="mailto:123kritikumari@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40" />
   </a>
 </p>
 

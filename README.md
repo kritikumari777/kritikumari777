@@ -1,35 +1,34 @@
 <h1 align="center">Hi 👋, I'm Kriti Kumari</h1>
-<h3 align="center">💻 React Developer - Blulabs | Ex: Publicis Sapient |3+ Years Experience </h3>
+<h3 align="center">💻 React Developer | Blulabs | Ex-Publicis Sapient | 3+ Years Experience</h3>
 
 ---
 
 ### 🚀 About Me  
-- 🔭 **3+ years of experience** building scalable and performant web applications using **React.js**.  
-- 🌱 Currently exploring **Next.js, TypeScript, and GraphQ**.  
-- 👯 Open to collaborating on **frontend & full-stack projects**.  
-- 📂 All my projects are available here 👉 [GitHub Repositories](https://github.com/kritikumari777)  
-- 📝 I write & learn continuously on 👉 [Sololearn Profile](https://www.sololearn.com/profile/9415219)  
-- 💬 Ask me about **React JS, JavaScript, Tailwind CSS, GraphQL, REST APIs**  
+- 🔭 **React Developer with 3+ years of experience** building scalable and high-performance web applications.  
+- 🌱 Currently upskilling in **Next.js, TypeScript, and GraphQL**.  
+- 👯 Passionate about **frontend innovation, performance optimization, and seamless UX**.  
+- 📂 Explore my work 👉 [GitHub Repositories](https://github.com/kritikumari777)  
+- 📝 Continuous learner 👉 [Sololearn Profile](https://www.sololearn.com/profile/9415219)  
+- 💬 Ask me about **React.js, JavaScript, Tailwind CSS, REST APIs, GraphQL**  
 - 📫 Reach me at **123kritikumari@gmail.com**  
-- 📄 Know more about my experience 👉 [LinkedIn](https://www.linkedin.com/in/kriti-kumari-862753185/)  
-- ⚡ Fun fact: *I love solving UI challenges and optimizing performance.*  
+- 📄 Know more 👉 [LinkedIn](https://www.linkedin.com/in/kriti-kumari-862753185/)  
+- ⚡ Fun fact: *I love solving UI challenges and making apps super fast 🚀*  
 
 ---
 
 ### 🌐 Connect with Me  
-
 <p align="left">
   <a href="https://www.linkedin.com/in/kriti-kumari-862753185/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kriti-kumari" height="30" width="40" />
   </a>
   <a href="mailto:123kritikumari@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack  
 
 **Languages & Databases:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
@@ -68,32 +67,28 @@
 
 ---
 
-### 🚀 Featured Projects
-- 💳 **Healthcare Management System** – Built secure patient management, appointment scheduling, **multiple account login**, and integrated **payment gateway**. Improved performance by 80%.
+### 🚀 Featured Projects  
 
-- 🎥 **Audio/Video Recorder** – Implemented media recording, **audio transcription**, and note creation. Optimized performance by 70% and made the component reusable across modules.
-
-- 📊 **Feedback Form Builder** – Dynamic form creation with 7+ field types (Star, Radio, Text, etc.) using React & Tailwind. Designed to be fully configurable and reusable. 
-
-- 📝 **Notes Management (GraphQL Polling)** – Real-time updates with GraphQL polling, fixed draft/success status issues, and optimized UI rendering for better user experience.
-
-- 📋 **Medical Report Markdown Notes** – Implemented **copy-to-clipboard with markdown integrity**, enabling users to copy sections, subtitles, or lines while preserving formatting. Enhanced provider usability. 
-
-- ⚡ **React CRUD App** – CRUD operations with hooks, Redux, and local storage sync. Includes API integration and clean UI.
+- 💳 **Healthcare Management System** – Built secure **patient management, appointment scheduling, multi-account login, and payment gateway**. Improved app performance by **80%**.  
+- 🎥 **Audio/Video Recorder & Transcription** – Implemented **note creation from audio, transcription, and media management**. Boosted performance by **70%**.  
+- 📊 **Feedback Form Builder** – Dynamic forms with **7+ field types** (Star Rating, Text, Radio, etc.) using React & Tailwind. Fully configurable and reusable.  
+- 📝 **Medical Report Notes (Markdown)** – Developed **copy-to-clipboard with markdown integrity**, supporting titles, subtitles & line copying without breaking formatting.  
+- ⚡ **React CRUD App** – Built CRUD operations with hooks, Redux, local storage sync, and API integration.  
 
 ---
 
-  ### 🌐 Industry Projects (Professional Work)
+### 🌐 Industry Projects (Professional Work)  
 
-- **Playback Health Platform** (Blulabs)  
-  🔹 Contributed to multiple modules across **Provider Portal, Patient Portal, and Core Platform**  
-  🔹 Implemented features like **audio/video recording, multiple account login, payment gateway integration, appointment scheduling**, and secure data handling  
-  🔹 Optimized performance by 80% using **React.js, Redux, GraphQL, Tailwind CSS**  
-  🔗 [Provider Portal](https://provider.playbackhealth.com/login) | [Patient Portal](https://dev-patientportal.playback-dev.com/) | [Playback Health](https://pro.playbackhealth.com/)
+- **Playback Health Platform** *(Blulabs)*  
+  🔹 Worked on **Provider, Patient & Core Platforms**  
+  🔹 Features: **Audio/Video recording, multiple account login, payment gateway, appointment scheduling**  
+  🔹 Improved app performance by **80%** using React, Redux, GraphQL, Tailwind  
+  🔗 [Provider Portal](https://provider.playbackhealth.com/login) | [Patient Portal](https://dev-patientportal.playback-dev.com/) | [Playback Health](https://pro.playbackhealth.com/)  
 
-- **Brown Advisory – Touchpoint Platform** (Publicis Sapient)  
-  🔹 Built secure login & client dashboards for a **financial advisory platform**  
-  🔹 Integrated **REST APIs**, optimized UI rendering, and improved performance using **React, Redux, and Ant Design**  
-  🔗 [Touchpoint Portal](https://touchpoint.brownadvisory.com/brown-web/login/loginForm.go)
+- **Brown Advisory – Touchpoint Platform** *(Publicis Sapient)*  
+  🔹 Developed secure **login & client dashboards** for a financial advisory platform  
+  🔹 Integrated **real-time financial APIs** and improved UI rendering  
+  🔹 Tech: React, Redux, REST API, Ant Design  
+  🔗 [Touchpoint Portal](https://touchpoint.brownadvisory.com/brown-web/login/loginForm.go)  
 
 ---

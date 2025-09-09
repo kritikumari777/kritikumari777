@@ -13,13 +13,6 @@
 
 ---
 
-### 🌐 Connect with Me  
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kriti-kumari-862753185/)  
-- 📫 [Email Me](mailto:123kritikumari@gmail.com)
-
----
-
 ### 💻 Tech Stack  
 
 **Languages & Databases:**  

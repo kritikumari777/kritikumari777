@@ -42,11 +42,14 @@
 
 ### 📊 GitHub Stats  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kritikumari777&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kritikumari777&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Kriti Kumari GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikumari777&theme=tokyonight&hide_border=true" alt="Kriti Kumari GitHub Streak" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritikumari777&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritikumari777&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kritikumari777&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Kriti Kumari Top Languages" />
+</p>
 ---
 
 ### 🚀 Featured Projects  

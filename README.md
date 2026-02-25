@@ -43,12 +43,12 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kritikumari777&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Kriti Kumari GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikumari777&theme=tokyonight&hide_border=true" alt="Kriti Kumari GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kritikumari777&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kritikumari777&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kritikumari777&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Kriti Kumari Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikumari777&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

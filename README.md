@@ -42,12 +42,11 @@
 
 ### 📊 GitHub Stats  
 
-![Kriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=kritikumari777&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=kritikumari777&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritikumari777&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kritikumari777&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritikumari777&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 ---
 
 ### 🚀 Featured Projects  
